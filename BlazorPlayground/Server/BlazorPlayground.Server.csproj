@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Tyler Meduho</Authors>
+    <Product>BlazorPlayground</Product>
   </PropertyGroup>
 
   <ItemGroup>
